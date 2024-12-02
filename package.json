@@ -1,0 +1,24 @@
+{
+  "name": "manzo-paquete",
+  "version": "1.0.0",
+  "description": "Algo hará este paquete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuKuShaing/manzo-paquete.git"
+  },
+  "keywords": [],
+  "author": "Sebastián Snhueza <sebastian.sanhueza.t@usach.cl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuKuShaing/manzo-paquete.git/issues"
+  },
+  "homepage": "https://github.com/SuKuShaing/manzo-paquete.git#readme",
+  "bin": {
+    "manzo-paquete": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
