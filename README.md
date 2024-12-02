@@ -12,5 +12,8 @@ npm install -g manzo-paquete
 manzo-paquete
 ```
 
+## Messages that it displays
+![](https://raw.githubusercontent.com/SuKuShaing/manzo-paquete/refs/heads/main/CapturasDelManzoPaquete.png)
+
 ## Contributing
 If you want to contribute to the project either with more phrases or with modifications to the code, open an issue or pull on github
