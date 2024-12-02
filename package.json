@@ -1,6 +1,6 @@
 {
   "name": "manzo-paquete",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Algo hará este paquete",
   "main": "index.js",
   "scripts": {
